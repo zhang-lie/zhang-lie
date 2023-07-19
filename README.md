@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhang lie
 - 👀 I’m interested in python coding
-- 🌱 I’m currently learning machine learning and computer vision
+- 🌱 I’m currently working in machine learning and computer vision
 
 <!---
 zhang-lie/zhang-lie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
